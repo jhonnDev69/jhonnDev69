@@ -50,12 +50,12 @@ Meu nome é João Vitor, tenho 18 anos e sou natural de Santa Catarina. Atualmen
 <div align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=jhonnDev69&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-    height="200" 
+    height="150" 
     alt="GitHub Stats"
   />
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonnDev69&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-    height="200" 
+    height="150" 
     alt="Top Langs"
   />
 </div>
